@@ -5,12 +5,12 @@ import { logoImages } from '../lib/images'
 import { PROJECT_NAME } from '../lib/config'
 
 const navLinks = [
-  { name: 'OVERVIEW',    href: '#overview', active: true },
   { name: 'HIGHLIGHTS',  href: '#highlights' },
   { name: 'GALLERY',     href: '#gallery' },
   { name: 'PRICE LIST',  href: '#pricing' },
   { name: 'AMENITIES',   href: '#amenities' },
   { name: 'LOCATION',    href: '#location' },
+  { name: 'MASTER & FLOOR PLAN', href: '#masterplan' },
 ]
 
 // Pre-fetch section code on hover
