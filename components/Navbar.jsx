@@ -11,7 +11,6 @@ const navLinks = [
   { name: 'PRICE LIST',  href: '#pricing' },
   { name: 'AMENITIES',   href: '#amenities' },
   { name: 'LOCATION',    href: '#location' },
-  { name: 'MASTER & FLOOR PLAN', href: '#masterplan' },
 ]
 
 // Pre-fetch section code on hover
